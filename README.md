@@ -266,6 +266,7 @@ marina beach.html
 ![alt text](<Screenshot 2025-04-23 005355.png>)
 ![alt text](<Screenshot 2025-04-23 005427.png>)
 ![alt text](<Screenshot 2025-04-23 012040.png>)
+![alt text](<Screenshot 2025-04-23 005459.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
